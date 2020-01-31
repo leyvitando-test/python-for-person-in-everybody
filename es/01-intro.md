@@ -26,6 +26,9 @@
 >¡Atención! En Windows, no olvides añadir Python al PATH en los primeros pasos de instalación:
 > 
 >![Instalando Python](https://deleyva.gitbooks.io/automatiza-tu-aprendizaje-con-python/content/img/python-path.png)
+
+Estaría bien cambiar esta imagen
+
 >
 >Una vez hecho eso ya tendremos accesible Python desde la terminal.
 >
